@@ -191,5 +191,3 @@ Tableau Dashboard: [Energy Demand Forecast Dashboard](https://public.tableau.com
 
 ## Author
 Lynnetta Bonsu — [LinkedIn](https://www.linkedin.com/in/lrbonsu/) | [Tableau Public](https://public.tableau.com/app/profile/lynnetta.bonsu/vizzes) | [GitHub](https://github.com/lrbonsu)
-# energy-forecast
-# cohort-analysis
