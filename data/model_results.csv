@@ -1,0 +1,4 @@
+model,mae,rmse,mape
+Moving Average,133.2,158.8,10.6
+Exponential Smoothing,37.5,45.2,3.2
+Linear Trend,129.0,148.4,10.4
